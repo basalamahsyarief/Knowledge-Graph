@@ -18,10 +18,10 @@ def prediksi():
 
 
 @app.route('/', methods=['POST', 'GET'])
-@app.route('/tabs', methods=['POST', 'GET'])
+@app.route('/all', methods=['POST', 'GET'])
 def contoh():
 
-    return render_template('admin/ui-tabs.html')
+    return render_template('index_all.html')
 # prediksi()
 
 

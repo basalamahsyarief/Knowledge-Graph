@@ -5,1678 +5,2014 @@
         {
             "id": 0,
             "key": 0,
-            "source": "user_668",
-            "target": "topic_1499",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 97,
-            "key": 0,
-            "source": "user_668",
-            "target": "topic_11218",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 27,
-            "key": 0,
-            "source": "topic_1499",
-            "target": "user_13069",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 61,
-            "key": 0,
-            "source": "topic_1499",
-            "target": "user_4725",
-            "type": "INTERESTED_IN"
+            "source": "content_11529",
+            "target": "user_3293",
+            "type": "WRITTEN_BY"
         },
         {
             "id": 1,
             "key": 0,
-            "source": "user_10319",
-            "target": "topic_2414",
-            "type": "INTERESTED_IN"
+            "source": "topic_3523",
+            "target": "topic_7642",
+            "type": "ASSUME_UNDERSTANDING_OF"
         },
         {
-            "id": 21,
+            "id": 96,
             "key": 0,
-            "source": "topic_2414",
-            "target": "user_11784",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 32,
-            "key": 0,
-            "source": "topic_2414",
-            "target": "user_5326",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 41,
-            "key": 0,
-            "source": "topic_2414",
-            "target": "user_5102",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 43,
-            "key": 0,
-            "source": "topic_2414",
-            "target": "user_14537",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 49,
-            "key": 0,
-            "source": "topic_2414",
-            "target": "user_10175",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 67,
-            "key": 0,
-            "source": "topic_2414",
-            "target": "user_3119",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 85,
-            "key": 0,
-            "source": "topic_2414",
-            "target": "user_9679",
-            "type": "INTERESTED_IN"
+            "source": "topic_3523",
+            "target": "content_12672",
+            "type": "TALK_OF"
         },
         {
             "id": 2,
             "key": 0,
-            "source": "user_31",
-            "target": "topic_3056",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 4,
-            "key": 0,
-            "source": "topic_3056",
-            "target": "user_13606",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 33,
-            "key": 0,
-            "source": "topic_3056",
-            "target": "user_3787",
-            "type": "INTERESTED_IN"
+            "source": "library_8042",
+            "target": "mlStatAlgo_4864",
+            "type": "ENCAPSULATES"
         },
         {
             "id": 3,
             "key": 0,
-            "source": "user_2471",
-            "target": "topic_11898",
-            "type": "INTERESTED_IN"
+            "source": "topic_4106",
+            "target": "topic_10549",
+            "type": "SYNONYM"
         },
         {
-            "id": 22,
+            "id": 97,
             "key": 0,
-            "source": "topic_11898",
-            "target": "user_13210",
-            "type": "INTERESTED_IN"
+            "source": "topic_4106",
+            "target": "topic_10272",
+            "type": "SYNONYM"
         },
         {
-            "id": 42,
+            "id": 4,
             "key": 0,
-            "source": "topic_11898",
-            "target": "user_14537",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 44,
-            "key": 0,
-            "source": "topic_11898",
-            "target": "user_10248",
-            "type": "INTERESTED_IN"
+            "source": "content_12982",
+            "target": "topic_7856",
+            "type": "TALK_OF"
         },
         {
             "id": 5,
             "key": 0,
-            "source": "user_5193",
-            "target": "topic_12402",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 58,
-            "key": 0,
-            "source": "user_5193",
-            "target": "topic_9003",
+            "source": "user_7898",
+            "target": "topic_7153",
             "type": "INTERESTED_IN"
         },
         {
             "id": 6,
             "key": 0,
-            "source": "user_3146",
-            "target": "topic_10222",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 14,
-            "key": 0,
-            "source": "topic_10222",
-            "target": "user_4290",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 92,
-            "key": 0,
-            "source": "topic_10222",
-            "target": "user_291",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 99,
-            "key": 0,
-            "source": "topic_10222",
-            "target": "user_12063",
+            "source": "user_10665",
+            "target": "topic_1332",
             "type": "INTERESTED_IN"
         },
         {
             "id": 7,
             "key": 0,
-            "source": "user_3176",
-            "target": "topic_9003",
-            "type": "INTERESTED_IN"
+            "source": "content_7503",
+            "target": "user_4460",
+            "type": "WRITTEN_BY"
         },
         {
             "id": 8,
             "key": 0,
-            "source": "user_10909",
-            "target": "topic_819",
-            "type": "INTERESTED_IN"
+            "source": "topic_8398",
+            "target": "topic_10132",
+            "type": "SYNONYM"
         },
         {
             "id": 9,
             "key": 0,
-            "source": "user_220",
-            "target": "topic_14173",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 96,
-            "key": 0,
-            "source": "topic_14173",
-            "target": "user_8499",
-            "type": "INTERESTED_IN"
+            "source": "user_4206",
+            "target": "content_2399",
+            "type": "BOOKMARK"
         },
         {
             "id": 10,
             "key": 0,
-            "source": "user_12173",
-            "target": "topic_3031",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 19,
-            "key": 0,
-            "source": "topic_3031",
-            "target": "user_6283",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 31,
-            "key": 0,
-            "source": "topic_3031",
-            "target": "user_4582",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 40,
-            "key": 0,
-            "source": "topic_3031",
-            "target": "user_7666",
-            "type": "INTERESTED_IN"
+            "source": "externalResources_5668",
+            "target": "library_8873",
+            "type": "SYNONYM"
         },
         {
             "id": 11,
             "key": 0,
-            "source": "user_1286",
-            "target": "topic_5753",
+            "source": "user_1596",
+            "target": "topic_819",
             "type": "INTERESTED_IN"
         },
         {
             "id": 12,
             "key": 0,
-            "source": "user_3848",
-            "target": "topic_7377",
-            "type": "INTERESTED_IN"
+            "source": "library_9382",
+            "target": "mlStatMethod_12009",
+            "type": "ENCAPSULATES"
         },
         {
-            "id": 50,
+            "id": 73,
             "key": 0,
-            "source": "topic_7377",
-            "target": "user_8251",
-            "type": "INTERESTED_IN"
+            "source": "mlStatMethod_12009",
+            "target": "library_9012",
+            "type": "ENCAPSULATES"
         },
         {
             "id": 13,
             "key": 0,
-            "source": "user_13611",
-            "target": "topic_6981",
-            "type": "INTERESTED_IN"
+            "source": "content_13270",
+            "target": "topic_12469",
+            "type": "TALK_OF"
         },
         {
-            "id": 16,
+            "id": 14,
             "key": 0,
-            "source": "topic_6981",
-            "target": "user_9162",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 68,
-            "key": 0,
-            "source": "topic_6981",
-            "target": "user_14531",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 15,
-            "key": 0,
-            "source": "user_14102",
-            "target": "topic_1332",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 60,
-            "key": 0,
-            "source": "topic_1332",
-            "target": "user_13315",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 76,
-            "key": 0,
-            "source": "topic_1332",
-            "target": "user_1491",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 17,
-            "key": 0,
-            "source": "user_4396",
-            "target": "topic_9223",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 18,
-            "key": 0,
-            "source": "user_3600",
-            "target": "topic_5913",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 38,
-            "key": 0,
-            "source": "topic_5913",
-            "target": "user_11432",
-            "type": "INTERESTED_IN"
+            "source": "user_187",
+            "target": "content_5029",
+            "type": "BOOKMARK"
         },
         {
             "id": 20,
             "key": 0,
-            "source": "user_3965",
-            "target": "topic_1063",
+            "source": "content_5029",
+            "target": "user_75",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 44,
+            "key": 0,
+            "source": "content_5029",
+            "target": "user_7647",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 53,
+            "key": 0,
+            "source": "content_5029",
+            "target": "user_1630",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 82,
+            "key": 0,
+            "source": "content_5029",
+            "target": "user_3995",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 88,
+            "key": 0,
+            "source": "content_5029",
+            "target": "user_336",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 15,
+            "key": 0,
+            "source": "externalResources_13616",
+            "target": "library_4314",
+            "type": "SYNONYM"
+        },
+        {
+            "id": 16,
+            "key": 0,
+            "source": "user_5302",
+            "target": "content_866",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 17,
+            "key": 0,
+            "source": "thread_4935",
+            "target": "book_13647",
+            "type": "TALK_OF"
+        },
+        {
+            "id": 18,
+            "key": 0,
+            "source": "user_6137",
+            "target": "topic_10060",
             "type": "INTERESTED_IN"
         },
         {
-            "id": 45,
+            "id": 19,
             "key": 0,
-            "source": "topic_1063",
-            "target": "user_7923",
+            "source": "user_9957",
+            "target": "topic_6981",
             "type": "INTERESTED_IN"
         },
         {
-            "id": 48,
+            "id": 21,
             "key": 0,
-            "source": "topic_1063",
-            "target": "user_12531",
-            "type": "INTERESTED_IN"
+            "source": "content_12647",
+            "target": "user_8539",
+            "type": "WRITTEN_BY"
         },
         {
-            "id": 69,
+            "id": 22,
             "key": 0,
-            "source": "topic_1063",
-            "target": "user_449",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 91,
-            "key": 0,
-            "source": "topic_1063",
-            "target": "user_291",
-            "type": "INTERESTED_IN"
+            "source": "library_2704",
+            "target": "mlStatAlgo_11806",
+            "type": "ENCAPSULATES"
         },
         {
             "id": 23,
             "key": 0,
-            "source": "user_9845",
-            "target": "topic_1943",
-            "type": "INTERESTED_IN"
+            "source": "user_13349",
+            "target": "externalResources_12176",
+            "type": "BOOKMARK"
         },
         {
-            "id": 52,
+            "id": 31,
             "key": 0,
-            "source": "topic_1943",
-            "target": "user_10881",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 55,
-            "key": 0,
-            "source": "topic_1943",
-            "target": "user_12415",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 65,
-            "key": 0,
-            "source": "topic_1943",
-            "target": "user_14018",
-            "type": "INTERESTED_IN"
+            "source": "externalResources_12176",
+            "target": "user_9093",
+            "type": "BOOKMARK"
         },
         {
             "id": 24,
             "key": 0,
-            "source": "user_12279",
-            "target": "topic_5696",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 78,
-            "key": 0,
-            "source": "user_12279",
-            "target": "topic_3502",
-            "type": "INTERESTED_IN"
+            "source": "content_1796",
+            "target": "user_4343",
+            "type": "WRITTEN_BY"
         },
         {
             "id": 25,
             "key": 0,
-            "source": "user_5556",
-            "target": "topic_823",
-            "type": "INTERESTED_IN"
+            "source": "externalResources_1921",
+            "target": "library_1454",
+            "type": "SYNONYM"
         },
         {
             "id": 26,
             "key": 0,
-            "source": "user_2486",
-            "target": "topic_2029",
-            "type": "INTERESTED_IN"
+            "source": "thread_3994",
+            "target": "book_3919",
+            "type": "TALK_OF"
         },
         {
-            "id": 30,
+            "id": 27,
             "key": 0,
-            "source": "topic_2029",
-            "target": "user_7224",
+            "source": "user_7933",
+            "target": "topic_4994",
             "type": "INTERESTED_IN"
         },
         {
             "id": 28,
             "key": 0,
-            "source": "user_5263",
-            "target": "topic_4994",
-            "type": "INTERESTED_IN"
+            "source": "library_1851",
+            "target": "mlStatMetric_743",
+            "type": "ENCAPSULATES"
         },
         {
-            "id": 83,
+            "id": 84,
             "key": 0,
-            "source": "user_5263",
-            "target": "topic_5295",
-            "type": "INTERESTED_IN"
+            "source": "mlStatMetric_743",
+            "target": "library_9292",
+            "type": "ENCAPSULATES"
         },
         {
-            "id": 47,
+            "id": 94,
             "key": 0,
-            "source": "topic_4994",
-            "target": "user_10611",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 62,
-            "key": 0,
-            "source": "topic_4994",
-            "target": "user_1656",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 66,
-            "key": 0,
-            "source": "topic_4994",
-            "target": "user_9969",
-            "type": "INTERESTED_IN"
+            "source": "mlStatMetric_743",
+            "target": "library_6662",
+            "type": "ENCAPSULATES"
         },
         {
             "id": 29,
             "key": 0,
-            "source": "user_6629",
-            "target": "topic_8662",
+            "source": "topic_6897",
+            "target": "topic_569",
+            "type": "SYNONYM"
+        },
+        {
+            "id": 30,
+            "key": 0,
+            "source": "user_7080",
+            "target": "externalResources_7432",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 32,
+            "key": 0,
+            "source": "user_9469",
+            "target": "topic_2414",
+            "type": "INTERESTED_IN"
+        },
+        {
+            "id": 33,
+            "key": 0,
+            "source": "user_1656",
+            "target": "topic_13752",
             "type": "INTERESTED_IN"
         },
         {
             "id": 34,
             "key": 0,
-            "source": "user_11502",
-            "target": "topic_10154",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 90,
-            "key": 0,
-            "source": "user_11502",
-            "target": "topic_10904",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 79,
-            "key": 0,
-            "source": "topic_10154",
-            "target": "user_10121",
-            "type": "INTERESTED_IN"
+            "source": "thread_2433",
+            "target": "book_7322",
+            "type": "TALK_OF"
         },
         {
             "id": 35,
             "key": 0,
-            "source": "user_9957",
-            "target": "topic_9065",
-            "type": "INTERESTED_IN"
+            "source": "externalResources_1207",
+            "target": "library_9147",
+            "type": "SYNONYM"
         },
         {
             "id": 36,
             "key": 0,
-            "source": "user_9456",
-            "target": "topic_9851",
-            "type": "INTERESTED_IN"
+            "source": "topic_3936",
+            "target": "topic_7609",
+            "type": "SYNONYM"
         },
         {
             "id": 37,
             "key": 0,
-            "source": "user_5167",
-            "target": "topic_4617",
-            "type": "INTERESTED_IN"
+            "source": "user_12952",
+            "target": "externalResources_10086",
+            "type": "BOOKMARK"
         },
         {
-            "id": 73,
+            "id": 61,
             "key": 0,
-            "source": "topic_4617",
-            "target": "user_6103",
-            "type": "INTERESTED_IN"
+            "source": "externalResources_10086",
+            "target": "user_11998",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 38,
+            "key": 0,
+            "source": "externalResources_12789",
+            "target": "library_13976",
+            "type": "SYNONYM"
         },
         {
             "id": 39,
             "key": 0,
-            "source": "user_11432",
-            "target": "topic_268",
+            "source": "topic_2445",
+            "target": "topic_13026",
+            "type": "SYNONYM"
+        },
+        {
+            "id": 40,
+            "key": 0,
+            "source": "topic_883",
+            "target": "topic_7981",
+            "type": "SYNONYM"
+        },
+        {
+            "id": 41,
+            "key": 0,
+            "source": "externalResources_4106",
+            "target": "library_3758",
+            "type": "SYNONYM"
+        },
+        {
+            "id": 42,
+            "key": 0,
+            "source": "user_5741",
+            "target": "topic_10580",
             "type": "INTERESTED_IN"
         },
         {
-            "id": 93,
+            "id": 43,
             "key": 0,
-            "source": "topic_268",
-            "target": "user_8791",
-            "type": "INTERESTED_IN"
+            "source": "topic_2050",
+            "target": "topic_10002",
+            "type": "ASSUME_UNDERSTANDING_OF"
+        },
+        {
+            "id": 45,
+            "key": 0,
+            "source": "user_13534",
+            "target": "externalResources_8451",
+            "type": "BOOKMARK"
         },
         {
             "id": 46,
             "key": 0,
-            "source": "user_199",
-            "target": "topic_12872",
+            "source": "user_13210",
+            "target": "topic_11898",
             "type": "INTERESTED_IN"
         },
         {
-            "id": 86,
+            "id": 47,
             "key": 0,
-            "source": "topic_12872",
-            "target": "user_1016",
-            "type": "INTERESTED_IN"
+            "source": "content_12425",
+            "target": "user_5624",
+            "type": "WRITTEN_BY"
+        },
+        {
+            "id": 48,
+            "key": 0,
+            "source": "user_10774",
+            "target": "content_2937",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 49,
+            "key": 0,
+            "source": "topic_7037",
+            "target": "topic_13583",
+            "type": "SYNONYM"
+        },
+        {
+            "id": 50,
+            "key": 0,
+            "source": "thread_4894",
+            "target": "book_12527",
+            "type": "TALK_OF"
         },
         {
             "id": 51,
             "key": 0,
-            "source": "user_11386",
-            "target": "topic_10060",
-            "type": "INTERESTED_IN"
+            "source": "topic_1909",
+            "target": "topic_10753",
+            "type": "ASSUME_UNDERSTANDING_OF"
+        },
+        {
+            "id": 52,
+            "key": 0,
+            "source": "library_9162",
+            "target": "mlStatMethod_12677",
+            "type": "ENCAPSULATES"
         },
         {
             "id": 54,
             "key": 0,
-            "source": "topic_10060",
-            "target": "user_12063",
-            "type": "INTERESTED_IN"
+            "source": "library_7829",
+            "target": "mlStatAlgo_5817",
+            "type": "ENCAPSULATES"
         },
         {
-            "id": 94,
+            "id": 55,
             "key": 0,
-            "source": "topic_10060",
-            "target": "user_13893",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 53,
-            "key": 0,
-            "source": "user_11308",
-            "target": "topic_9034",
-            "type": "INTERESTED_IN"
+            "source": "content_8362",
+            "target": "topic_10309",
+            "type": "TALK_OF"
         },
         {
             "id": 56,
             "key": 0,
-            "source": "topic_9034",
-            "target": "user_12415",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 88,
-            "key": 0,
-            "source": "topic_9034",
-            "target": "user_11726",
-            "type": "INTERESTED_IN"
+            "source": "content_13165",
+            "target": "topic_3069",
+            "type": "TALK_OF"
         },
         {
             "id": 57,
             "key": 0,
-            "source": "user_14119",
-            "target": "topic_7124",
-            "type": "INTERESTED_IN"
+            "source": "topic_13654",
+            "target": "topic_14376",
+            "type": "SYNONYM"
         },
         {
-            "id": 81,
+            "id": 58,
             "key": 0,
-            "source": "topic_7124",
-            "target": "user_6003",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 95,
-            "key": 0,
-            "source": "topic_7124",
-            "target": "user_4975",
+            "source": "user_13468",
+            "target": "topic_160",
             "type": "INTERESTED_IN"
         },
         {
             "id": 59,
             "key": 0,
-            "source": "user_2764",
-            "target": "topic_13752",
-            "type": "INTERESTED_IN"
+            "source": "content_11803",
+            "target": "user_11563",
+            "type": "WRITTEN_BY"
+        },
+        {
+            "id": 60,
+            "key": 0,
+            "source": "content_13296",
+            "target": "topic_12881",
+            "type": "TALK_OF"
+        },
+        {
+            "id": 62,
+            "key": 0,
+            "source": "content_10907",
+            "target": "topic_10218",
+            "type": "ASSUME_UNDERSTANDING_OF"
+        },
+        {
+            "id": 90,
+            "key": 0,
+            "source": "content_10907",
+            "target": "topic_10099",
+            "type": "ASSUME_UNDERSTANDING_OF"
         },
         {
             "id": 63,
             "key": 0,
-            "source": "user_1319",
-            "target": "topic_13506",
-            "type": "INTERESTED_IN"
+            "source": "content_10134",
+            "target": "topic_4876",
+            "type": "ASSUME_UNDERSTANDING_OF"
         },
         {
             "id": 64,
             "key": 0,
-            "source": "user_1455",
-            "target": "topic_13398",
+            "source": "library_3760",
+            "target": "mlStatAlgo_7367",
+            "type": "ENCAPSULATES"
+        },
+        {
+            "id": 65,
+            "key": 0,
+            "source": "user_12415",
+            "target": "topic_9034",
             "type": "INTERESTED_IN"
+        },
+        {
+            "id": 66,
+            "key": 0,
+            "source": "library_7974",
+            "target": "mlStatMetric_805",
+            "type": "ENCAPSULATES"
+        },
+        {
+            "id": 67,
+            "key": 0,
+            "source": "content_9553",
+            "target": "topic_10210",
+            "type": "ASSUME_UNDERSTANDING_OF"
+        },
+        {
+            "id": 68,
+            "key": 0,
+            "source": "user_4141",
+            "target": "externalResources_11621",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 69,
+            "key": 0,
+            "source": "content_6157",
+            "target": "user_10605",
+            "type": "WRITTEN_BY"
         },
         {
             "id": 70,
             "key": 0,
-            "source": "user_950",
-            "target": "topic_5691",
-            "type": "INTERESTED_IN"
-        },
-        {
-            "id": 74,
-            "key": 0,
-            "source": "topic_5691",
-            "target": "user_12408",
-            "type": "INTERESTED_IN"
+            "source": "thread_195",
+            "target": "book_10698",
+            "type": "TALK_OF"
         },
         {
             "id": 71,
             "key": 0,
-            "source": "user_56",
-            "target": "topic_14476",
-            "type": "INTERESTED_IN"
+            "source": "content_9230",
+            "target": "topic_229",
+            "type": "ASSUME_UNDERSTANDING_OF"
         },
         {
             "id": 72,
             "key": 0,
-            "source": "user_12798",
-            "target": "topic_6980",
-            "type": "INTERESTED_IN"
+            "source": "library_10001",
+            "target": "mlStatAlgo_11871",
+            "type": "ENCAPSULATES"
+        },
+        {
+            "id": 74,
+            "key": 0,
+            "source": "topic_4759",
+            "target": "topic_8252",
+            "type": "SYNONYM"
         },
         {
             "id": 75,
             "key": 0,
-            "source": "user_129",
-            "target": "topic_12330",
-            "type": "INTERESTED_IN"
+            "source": "thread_1353",
+            "target": "book_636",
+            "type": "TALK_OF"
+        },
+        {
+            "id": 76,
+            "key": 0,
+            "source": "topic_4205",
+            "target": "topic_11638",
+            "type": "ASSUME_UNDERSTANDING_OF"
         },
         {
             "id": 77,
             "key": 0,
-            "source": "user_8781",
-            "target": "topic_5295",
-            "type": "INTERESTED_IN"
+            "source": "content_6260",
+            "target": "user_10104",
+            "type": "WRITTEN_BY"
+        },
+        {
+            "id": 78,
+            "key": 0,
+            "source": "topic_2492",
+            "target": "topic_3453",
+            "type": "SYNONYM"
+        },
+        {
+            "id": 79,
+            "key": 0,
+            "source": "content_9183",
+            "target": "topic_6821",
+            "type": "ASSUME_UNDERSTANDING_OF"
         },
         {
             "id": 80,
             "key": 0,
-            "source": "user_5382",
-            "target": "topic_10580",
-            "type": "INTERESTED_IN"
+            "source": "library_6767",
+            "target": "mlStatAlgo_11862",
+            "type": "ENCAPSULATES"
         },
         {
-            "id": 82,
+            "id": 81,
             "key": 0,
-            "source": "user_12179",
-            "target": "topic_6759",
-            "type": "INTERESTED_IN"
+            "source": "content_13356",
+            "target": "topic_7688",
+            "type": "TALK_OF"
         },
         {
-            "id": 84,
+            "id": 83,
             "key": 0,
-            "source": "user_6468",
-            "target": "topic_12955",
-            "type": "INTERESTED_IN"
+            "source": "topic_1598",
+            "target": "topic_855",
+            "type": "ASSUME_UNDERSTANDING_OF"
+        },
+        {
+            "id": 85,
+            "key": 0,
+            "source": "content_5172",
+            "target": "user_3659",
+            "type": "WRITTEN_BY"
+        },
+        {
+            "id": 86,
+            "key": 0,
+            "source": "content_9334",
+            "target": "user_9412",
+            "type": "WRITTEN_BY"
         },
         {
             "id": 87,
             "key": 0,
-            "source": "user_7951",
-            "target": "topic_11173",
-            "type": "INTERESTED_IN"
+            "source": "user_13071",
+            "target": "externalResources_11221",
+            "type": "BOOKMARK"
         },
         {
             "id": 89,
             "key": 0,
-            "source": "user_4562",
-            "target": "topic_6902",
+            "source": "user_10121",
+            "target": "topic_5913",
             "type": "INTERESTED_IN"
+        },
+        {
+            "id": 91,
+            "key": 0,
+            "source": "user_7819",
+            "target": "topic_12955",
+            "type": "INTERESTED_IN"
+        },
+        {
+            "id": 92,
+            "key": 0,
+            "source": "library_203",
+            "target": "mlStatMethod_13511",
+            "type": "ENCAPSULATES"
+        },
+        {
+            "id": 93,
+            "key": 0,
+            "source": "user_14373",
+            "target": "externalResources_13116",
+            "type": "BOOKMARK"
+        },
+        {
+            "id": 95,
+            "key": 0,
+            "source": "content_10392",
+            "target": "topic_9812",
+            "type": "ASSUME_UNDERSTANDING_OF"
         },
         {
             "id": 98,
             "key": 0,
-            "source": "user_1803",
-            "target": "topic_2882",
-            "type": "INTERESTED_IN"
+            "source": "content_12546",
+            "target": "topic_5069",
+            "type": "TALK_OF"
+        },
+        {
+            "id": 99,
+            "key": 0,
+            "source": "content_8975",
+            "target": "user_4226",
+            "type": "WRITTEN_BY"
         }
     ],
     "multigraph": true,
     "nodes": [
         {
-            "betweenness": 0.00031735956839098697,
-            "closeness": 0.01932367149758454,
-            "id": "user_668",
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_11529",
+            "modularity": 0,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_3293",
             "modularity": 0,
             "type": "user"
         },
         {
-            "betweenness": 0.0005289326139849783,
-            "closeness": 0.02318840579710145,
-            "id": "topic_1499",
-            "modularity": 0,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.034782608695652174,
-            "id": "user_10319",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.005924045276631757,
-            "closeness": 0.05491990846681922,
-            "id": "topic_2414",
+            "betweenness": 5.812263876780006e-05,
+            "closeness": 0.010752688172043012,
+            "id": "topic_3523",
             "modularity": 1,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_31",
+            "closeness": 0.007168458781362007,
+            "id": "topic_7642",
+            "modularity": 1,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_8042",
             "modularity": 2,
-            "type": "user"
+            "type": "library"
         },
         {
-            "betweenness": 0.00031735956839098697,
-            "closeness": 0.021739130434782608,
-            "id": "topic_3056",
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "mlStatAlgo_4864",
             "modularity": 2,
-            "type": "topic"
+            "type": "mlStatAlgo"
         },
         {
-            "betweenness": 0.0,
-            "closeness": 0.02745995423340961,
-            "id": "user_2471",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0031735956839098697,
-            "closeness": 0.03864734299516908,
-            "id": "topic_11898",
-            "modularity": 1,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_13606",
-            "modularity": 2,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0002115730455939913,
-            "closeness": 0.016304347826086956,
-            "id": "user_5193",
-            "modularity": 3,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.010869565217391304,
-            "id": "topic_12402",
+            "betweenness": 5.812263876780006e-05,
+            "closeness": 0.010752688172043012,
+            "id": "topic_4106",
             "modularity": 3,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.0282021151586369,
-            "id": "user_3146",
+            "closeness": 0.007168458781362007,
+            "id": "topic_10549",
+            "modularity": 3,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_12982",
             "modularity": 4,
-            "type": "user"
+            "type": "content"
         },
         {
-            "betweenness": 0.004760393525864805,
-            "closeness": 0.04013377926421405,
-            "id": "topic_10222",
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_7856",
             "modularity": 4,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.010869565217391304,
-            "id": "user_3176",
-            "modularity": 3,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0002115730455939913,
-            "closeness": 0.016304347826086956,
-            "id": "topic_9003",
-            "modularity": 3,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_10909",
+            "closeness": 0.005376344086021506,
+            "id": "user_7898",
             "modularity": 5,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_819",
+            "closeness": 0.005376344086021506,
+            "id": "topic_7153",
             "modularity": 5,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_220",
+            "closeness": 0.005376344086021506,
+            "id": "user_10665",
             "modularity": 6,
             "type": "user"
         },
         {
-            "betweenness": 0.00010578652279699566,
-            "closeness": 0.014492753623188406,
-            "id": "topic_14173",
-            "modularity": 6,
-            "type": "topic"
-        },
-        {
             "betweenness": 0.0,
-            "closeness": 0.016563146997929604,
-            "id": "user_12173",
-            "modularity": 7,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0006347191367819739,
-            "closeness": 0.028985507246376812,
-            "id": "topic_3031",
-            "modularity": 7,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_1286",
-            "modularity": 8,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_5753",
-            "modularity": 8,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_3848",
-            "modularity": 9,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00010578652279699566,
-            "closeness": 0.014492753623188406,
-            "id": "topic_7377",
-            "modularity": 9,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_13611",
-            "modularity": 10,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00031735956839098697,
-            "closeness": 0.021739130434782608,
-            "id": "topic_6981",
-            "modularity": 10,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.0282021151586369,
-            "id": "user_4290",
-            "modularity": 4,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_14102",
-            "modularity": 11,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00031735956839098697,
-            "closeness": 0.021739130434782608,
+            "closeness": 0.005376344086021506,
             "id": "topic_1332",
-            "modularity": 11,
+            "modularity": 6,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_9162",
-            "modularity": 10,
-            "type": "user"
+            "closeness": 0.005376344086021506,
+            "id": "content_7503",
+            "modularity": 7,
+            "type": "content"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_4396",
-            "modularity": 12,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_9223",
-            "modularity": 12,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.011594202898550725,
-            "id": "user_3600",
-            "modularity": 13,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00031735956839098697,
-            "closeness": 0.016563146997929604,
-            "id": "topic_5913",
-            "modularity": 13,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.016563146997929604,
-            "id": "user_6283",
+            "closeness": 0.005376344086021506,
+            "id": "user_4460",
             "modularity": 7,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.025450689289501588,
-            "id": "user_3965",
-            "modularity": 4,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0040198878662858345,
-            "closeness": 0.034782608695652174,
-            "id": "topic_1063",
-            "modularity": 4,
+            "closeness": 0.005376344086021506,
+            "id": "topic_8398",
+            "modularity": 8,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.034782608695652174,
-            "id": "user_11784",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.02745995423340961,
-            "id": "user_13210",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.019726247987117553,
-            "id": "user_9845",
-            "modularity": 14,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0015867978419549348,
-            "closeness": 0.02958937198067633,
-            "id": "topic_1943",
-            "modularity": 14,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.00010578652279699566,
-            "closeness": 0.014492753623188406,
-            "id": "user_12279",
-            "modularity": 15,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "topic_5696",
-            "modularity": 15,
+            "closeness": 0.005376344086021506,
+            "id": "topic_10132",
+            "modularity": 8,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_5556",
-            "modularity": 16,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_823",
-            "modularity": 16,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_2486",
-            "modularity": 17,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00010578652279699566,
-            "closeness": 0.014492753623188406,
-            "id": "topic_2029",
-            "modularity": 17,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.014492753623188406,
-            "id": "user_13069",
-            "modularity": 0,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0008462921823759652,
-            "closeness": 0.02608695652173913,
-            "id": "user_5263",
-            "modularity": 18,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0012694382735639479,
-            "closeness": 0.02898550724637681,
-            "id": "topic_4994",
-            "modularity": 18,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_6629",
-            "modularity": 19,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_8662",
-            "modularity": 19,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_7224",
-            "modularity": 17,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.016563146997929604,
-            "id": "user_4582",
-            "modularity": 7,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.034782608695652174,
-            "id": "user_5326",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_3787",
-            "modularity": 2,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0002115730455939913,
-            "closeness": 0.016304347826086956,
-            "id": "user_11502",
-            "modularity": 20,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0002115730455939913,
-            "closeness": 0.016304347826086956,
-            "id": "topic_10154",
-            "modularity": 20,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_9957",
-            "modularity": 21,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_9065",
-            "modularity": 21,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_9456",
-            "modularity": 22,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_9851",
-            "modularity": 22,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_5167",
-            "modularity": 23,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00010578652279699566,
-            "closeness": 0.014492753623188406,
-            "id": "topic_4617",
-            "modularity": 23,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0004231460911879826,
-            "closeness": 0.01932367149758454,
-            "id": "user_11432",
-            "modularity": 13,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00031735956839098697,
-            "closeness": 0.016563146997929604,
-            "id": "topic_268",
-            "modularity": 13,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.016563146997929604,
-            "id": "user_7666",
-            "modularity": 7,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.034782608695652174,
-            "id": "user_5102",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.003385168729503861,
-            "closeness": 0.04743083003952569,
-            "id": "user_14537",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.02745995423340961,
-            "id": "user_10248",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.025450689289501588,
-            "id": "user_7923",
-            "modularity": 4,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_199",
-            "modularity": 24,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00010578652279699566,
-            "closeness": 0.014492753623188406,
-            "id": "topic_12872",
-            "modularity": 24,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.018633540372670804,
-            "id": "user_10611",
-            "modularity": 18,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.025450689289501588,
-            "id": "user_12531",
-            "modularity": 4,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.034782608695652174,
-            "id": "user_10175",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_8251",
+            "closeness": 0.005376344086021506,
+            "id": "user_4206",
             "modularity": 9,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.02129547471162378,
-            "id": "user_11386",
-            "modularity": 4,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.002221516978736909,
-            "closeness": 0.02745995423340961,
-            "id": "topic_10060",
-            "modularity": 4,
-            "type": "topic"
+            "closeness": 0.005376344086021506,
+            "id": "content_2399",
+            "modularity": 9,
+            "type": "content"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.019726247987117553,
-            "id": "user_10881",
-            "modularity": 14,
-            "type": "user"
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_5668",
+            "modularity": 10,
+            "type": "externalResources"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.017753623188405798,
-            "id": "user_11308",
-            "modularity": 14,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0011636517507669522,
-            "closeness": 0.025362318840579712,
-            "id": "topic_9034",
-            "modularity": 14,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0028562361155188825,
-            "closeness": 0.033660589060308554,
-            "id": "user_12063",
-            "modularity": 4,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0012694382735639479,
-            "closeness": 0.02958937198067633,
-            "id": "user_12415",
-            "modularity": 14,
-            "type": "user"
+            "closeness": 0.005376344086021506,
+            "id": "library_8873",
+            "modularity": 10,
+            "type": "library"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_14119",
-            "modularity": 25,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00031735956839098697,
-            "closeness": 0.021739130434782608,
-            "id": "topic_7124",
-            "modularity": 25,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_2764",
-            "modularity": 26,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_13752",
-            "modularity": 26,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_13315",
+            "closeness": 0.005376344086021506,
+            "id": "user_1596",
             "modularity": 11,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.014492753623188406,
-            "id": "user_4725",
-            "modularity": 0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_819",
+            "modularity": 11,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "library_9382",
+            "modularity": 12,
+            "type": "library"
+        },
+        {
+            "betweenness": 5.812263876780006e-05,
+            "closeness": 0.010752688172043012,
+            "id": "mlStatMethod_12009",
+            "modularity": 12,
+            "type": "mlStatMethod"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_13270",
+            "modularity": 13,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_12469",
+            "modularity": 13,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.01759530791788856,
+            "id": "user_187",
+            "modularity": 14,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0008718395815170009,
+            "closeness": 0.03225806451612903,
+            "id": "content_5029",
+            "modularity": 14,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_13616",
+            "modularity": 15,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_4314",
+            "modularity": 15,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_5302",
+            "modularity": 16,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.018633540372670804,
-            "id": "user_1656",
+            "closeness": 0.005376344086021506,
+            "id": "content_866",
+            "modularity": 16,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "thread_4935",
+            "modularity": 17,
+            "type": "thread"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "book_13647",
+            "modularity": 17,
+            "type": "book"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_6137",
             "modularity": 18,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_1319",
-            "modularity": 27,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_13506",
-            "modularity": 27,
+            "closeness": 0.005376344086021506,
+            "id": "topic_10060",
+            "modularity": 18,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_1455",
-            "modularity": 28,
+            "closeness": 0.005376344086021506,
+            "id": "user_9957",
+            "modularity": 19,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_13398",
-            "modularity": 28,
+            "closeness": 0.005376344086021506,
+            "id": "topic_6981",
+            "modularity": 19,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.019726247987117553,
-            "id": "user_14018",
+            "closeness": 0.01759530791788856,
+            "id": "user_75",
             "modularity": 14,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.018633540372670804,
-            "id": "user_9969",
-            "modularity": 18,
+            "closeness": 0.005376344086021506,
+            "id": "content_12647",
+            "modularity": 20,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_8539",
+            "modularity": 20,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.034782608695652174,
-            "id": "user_3119",
-            "modularity": 1,
+            "closeness": 0.005376344086021506,
+            "id": "library_2704",
+            "modularity": 21,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "mlStatAlgo_11806",
+            "modularity": 21,
+            "type": "mlStatAlgo"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "user_13349",
+            "modularity": 22,
             "type": "user"
         },
         {
-            "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_14531",
-            "modularity": 10,
-            "type": "user"
+            "betweenness": 5.812263876780006e-05,
+            "closeness": 0.010752688172043012,
+            "id": "externalResources_12176",
+            "modularity": 22,
+            "type": "externalResources"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.025450689289501588,
-            "id": "user_449",
-            "modularity": 4,
-            "type": "user"
+            "closeness": 0.005376344086021506,
+            "id": "content_1796",
+            "modularity": 23,
+            "type": "content"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_950",
-            "modularity": 29,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.00010578652279699566,
-            "closeness": 0.014492753623188406,
-            "id": "topic_5691",
-            "modularity": 29,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_56",
-            "modularity": 30,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_14476",
-            "modularity": 30,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_12798",
-            "modularity": 31,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_6980",
-            "modularity": 31,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_6103",
+            "closeness": 0.005376344086021506,
+            "id": "user_4343",
             "modularity": 23,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_12408",
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_1921",
+            "modularity": 24,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_1454",
+            "modularity": 24,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "thread_3994",
+            "modularity": 25,
+            "type": "thread"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "book_3919",
+            "modularity": 25,
+            "type": "book"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_7933",
+            "modularity": 26,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_4994",
+            "modularity": 26,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.009677419354838708,
+            "id": "library_1851",
+            "modularity": 27,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.00017436791630340016,
+            "closeness": 0.016129032258064516,
+            "id": "mlStatMetric_743",
+            "modularity": 27,
+            "type": "mlStatMetric"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_6897",
+            "modularity": 28,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_569",
+            "modularity": 28,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_7080",
             "modularity": 29,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_129",
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_7432",
+            "modularity": 29,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "user_9093",
+            "modularity": 22,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_9469",
+            "modularity": 30,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_2414",
+            "modularity": 30,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_1656",
+            "modularity": 31,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_13752",
+            "modularity": 31,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "thread_2433",
             "modularity": 32,
-            "type": "user"
+            "type": "thread"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_12330",
+            "closeness": 0.005376344086021506,
+            "id": "book_7322",
             "modularity": 32,
-            "type": "topic"
+            "type": "book"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_1491",
-            "modularity": 11,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.014492753623188404,
-            "id": "user_8781",
-            "modularity": 18,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0005289326139849783,
-            "closeness": 0.020066889632107024,
-            "id": "topic_5295",
-            "modularity": 18,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "topic_3502",
-            "modularity": 15,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.010869565217391304,
-            "id": "user_10121",
-            "modularity": 20,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_5382",
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_1207",
             "modularity": 33,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_9147",
+            "modularity": 33,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_3936",
+            "modularity": 34,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_7609",
+            "modularity": 34,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "user_12952",
+            "modularity": 35,
+            "type": "user"
+        },
+        {
+            "betweenness": 5.812263876780006e-05,
+            "closeness": 0.010752688172043012,
+            "id": "externalResources_10086",
+            "modularity": 35,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_12789",
+            "modularity": 36,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_13976",
+            "modularity": 36,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_2445",
+            "modularity": 37,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_13026",
+            "modularity": 37,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_883",
+            "modularity": 38,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_7981",
+            "modularity": 38,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_4106",
+            "modularity": 39,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_3758",
+            "modularity": 39,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_5741",
+            "modularity": 40,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
+            "closeness": 0.005376344086021506,
             "id": "topic_10580",
-            "modularity": 33,
+            "modularity": 40,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_6003",
-            "modularity": 25,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_12179",
-            "modularity": 34,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_6759",
-            "modularity": 34,
+            "closeness": 0.005376344086021506,
+            "id": "topic_2050",
+            "modularity": 41,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_6468",
-            "modularity": 35,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_12955",
-            "modularity": 35,
+            "closeness": 0.005376344086021506,
+            "id": "topic_10002",
+            "modularity": 41,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.034782608695652174,
-            "id": "user_9679",
-            "modularity": 1,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_1016",
-            "modularity": 24,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_7951",
-            "modularity": 36,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_11173",
-            "modularity": 36,
-            "type": "topic"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.017753623188405798,
-            "id": "user_11726",
+            "closeness": 0.01759530791788856,
+            "id": "user_7647",
             "modularity": 14,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_4562",
-            "modularity": 37,
+            "closeness": 0.005376344086021506,
+            "id": "user_13534",
+            "modularity": 42,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_6902",
-            "modularity": 37,
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_8451",
+            "modularity": 42,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_13210",
+            "modularity": 43,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_11898",
+            "modularity": 43,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.010869565217391304,
-            "id": "topic_10904",
-            "modularity": 20,
-            "type": "topic"
+            "closeness": 0.005376344086021506,
+            "id": "content_12425",
+            "modularity": 44,
+            "type": "content"
         },
         {
-            "betweenness": 0.0037025282978948477,
-            "closeness": 0.03864734299516908,
-            "id": "user_291",
-            "modularity": 4,
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_5624",
+            "modularity": 44,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.011594202898550725,
-            "id": "user_8791",
-            "modularity": 13,
+            "closeness": 0.005376344086021506,
+            "id": "user_10774",
+            "modularity": 45,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.02129547471162378,
-            "id": "user_13893",
-            "modularity": 4,
-            "type": "user"
+            "closeness": 0.005376344086021506,
+            "id": "content_2937",
+            "modularity": 45,
+            "type": "content"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.013043478260869565,
-            "id": "user_4975",
-            "modularity": 25,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.00966183574879227,
-            "id": "user_8499",
-            "modularity": 6,
-            "type": "user"
-        },
-        {
-            "betweenness": 0.0,
-            "closeness": 0.01288244766505636,
-            "id": "topic_11218",
-            "modularity": 0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_7037",
+            "modularity": 46,
             "type": "topic"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "user_1803",
-            "modularity": 38,
+            "closeness": 0.005376344086021506,
+            "id": "topic_13583",
+            "modularity": 46,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "thread_4894",
+            "modularity": 47,
+            "type": "thread"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "book_12527",
+            "modularity": 47,
+            "type": "book"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_1909",
+            "modularity": 48,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_10753",
+            "modularity": 48,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_9162",
+            "modularity": 49,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "mlStatMethod_12677",
+            "modularity": 49,
+            "type": "mlStatMethod"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.01759530791788856,
+            "id": "user_1630",
+            "modularity": 14,
             "type": "user"
         },
         {
             "betweenness": 0.0,
-            "closeness": 0.007246376811594203,
-            "id": "topic_2882",
-            "modularity": 38,
+            "closeness": 0.005376344086021506,
+            "id": "library_7829",
+            "modularity": 50,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "mlStatAlgo_5817",
+            "modularity": 50,
+            "type": "mlStatAlgo"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_8362",
+            "modularity": 51,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_10309",
+            "modularity": 51,
             "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_13165",
+            "modularity": 52,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_3069",
+            "modularity": 52,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_13654",
+            "modularity": 53,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_14376",
+            "modularity": 53,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_13468",
+            "modularity": 54,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_160",
+            "modularity": 54,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_11803",
+            "modularity": 55,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_11563",
+            "modularity": 55,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_13296",
+            "modularity": 56,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_12881",
+            "modularity": 56,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "user_11998",
+            "modularity": 35,
+            "type": "user"
+        },
+        {
+            "betweenness": 5.812263876780006e-05,
+            "closeness": 0.010752688172043012,
+            "id": "content_10907",
+            "modularity": 57,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "topic_10218",
+            "modularity": 57,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_10134",
+            "modularity": 58,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_4876",
+            "modularity": 58,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_3760",
+            "modularity": 59,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "mlStatAlgo_7367",
+            "modularity": 59,
+            "type": "mlStatAlgo"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_12415",
+            "modularity": 60,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_9034",
+            "modularity": 60,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_7974",
+            "modularity": 61,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "mlStatMetric_805",
+            "modularity": 61,
+            "type": "mlStatMetric"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_9553",
+            "modularity": 62,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_10210",
+            "modularity": 62,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_4141",
+            "modularity": 63,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_11621",
+            "modularity": 63,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_6157",
+            "modularity": 64,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_10605",
+            "modularity": 64,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "thread_195",
+            "modularity": 65,
+            "type": "thread"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "book_10698",
+            "modularity": 65,
+            "type": "book"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_9230",
+            "modularity": 66,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_229",
+            "modularity": 66,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_10001",
+            "modularity": 67,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "mlStatAlgo_11871",
+            "modularity": 67,
+            "type": "mlStatAlgo"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "library_9012",
+            "modularity": 12,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_4759",
+            "modularity": 68,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_8252",
+            "modularity": 68,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "thread_1353",
+            "modularity": 69,
+            "type": "thread"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "book_636",
+            "modularity": 69,
+            "type": "book"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_4205",
+            "modularity": 70,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_11638",
+            "modularity": 70,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_6260",
+            "modularity": 71,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_10104",
+            "modularity": 71,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_2492",
+            "modularity": 72,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_3453",
+            "modularity": 72,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_9183",
+            "modularity": 73,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_6821",
+            "modularity": 73,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_6767",
+            "modularity": 74,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "mlStatAlgo_11862",
+            "modularity": 74,
+            "type": "mlStatAlgo"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_13356",
+            "modularity": 75,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_7688",
+            "modularity": 75,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.01759530791788856,
+            "id": "user_3995",
+            "modularity": 14,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_1598",
+            "modularity": 76,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_855",
+            "modularity": 76,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.009677419354838708,
+            "id": "library_9292",
+            "modularity": 27,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_5172",
+            "modularity": 77,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_3659",
+            "modularity": 77,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_9334",
+            "modularity": 78,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_9412",
+            "modularity": 78,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_13071",
+            "modularity": 79,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_11221",
+            "modularity": 79,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.01759530791788856,
+            "id": "user_336",
+            "modularity": 14,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_10121",
+            "modularity": 80,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_5913",
+            "modularity": 80,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "topic_10099",
+            "modularity": 57,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_7819",
+            "modularity": 81,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_12955",
+            "modularity": 81,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "library_203",
+            "modularity": 82,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "mlStatMethod_13511",
+            "modularity": 82,
+            "type": "mlStatMethod"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_14373",
+            "modularity": 83,
+            "type": "user"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "externalResources_13116",
+            "modularity": 83,
+            "type": "externalResources"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.009677419354838708,
+            "id": "library_6662",
+            "modularity": 27,
+            "type": "library"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_10392",
+            "modularity": 84,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_9812",
+            "modularity": 84,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "content_12672",
+            "modularity": 1,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.007168458781362007,
+            "id": "topic_10272",
+            "modularity": 3,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_12546",
+            "modularity": 85,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "topic_5069",
+            "modularity": 85,
+            "type": "topic"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "content_8975",
+            "modularity": 86,
+            "type": "content"
+        },
+        {
+            "betweenness": 0.0,
+            "closeness": 0.005376344086021506,
+            "id": "user_4226",
+            "modularity": 86,
+            "type": "user"
         }
     ]
 }

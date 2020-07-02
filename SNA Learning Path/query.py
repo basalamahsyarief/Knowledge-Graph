@@ -9,6 +9,7 @@ from datetime import datetime
 import certifi
 import pandas as pd
 import flask
+from sklearn.utils import shuffle
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__))
 APP_STATIC = os.path.join(APP_ROOT, 'static')
@@ -40,7 +41,8 @@ class QuerySNA:
 
     def qretweet(self):
         df = pd.read_csv('sample_dataset_learnavi.csv', index_col='Unnamed: 0')
-        df = df[:100]
+        # df = shuffle(df)
+        # df = df[:100].reset_index(drop=True)
         df.drop_duplicates(inplace=True)
         tipe_source = []
         tipe_target = []
@@ -94,7 +96,7 @@ class QuerySNA:
             self.G, {'link': 'links', 'source': 'source', 'target': 'target'})
         jdata = flask.json.dumps(data, ensure_ascii=False, indent=4)
         nx.write_gml(self.G, "testg.gml")  # save to file
-        with io.open(os.path.join(APP_STATIC, 'data.json'), 'w', encoding='utf-8') as f:
+        with io.open(os.path.join(APP_STATIC, 'all.json'), 'w', encoding='utf-8') as f:
             # f.write(flask.json.dumps(data, ensure_ascii=False))
             f.write(jdata)
 
