@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu Jul 02 21:06:19 ICT 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-0fd9-80f9-00000601fbb8 
-on database directory F:\My Project\Eftax\My Experiments\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@1d215bb9 
+Sat Jul 04 03:25:55 ICT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-165b-64c7-0000055411b0 
+on database directory F:\My Project\Eftax\My Experiments\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@6c72ebc4 
 Loaded from file:/C:/Aplikasi/Spark/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_211-b12
